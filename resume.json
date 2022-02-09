@@ -7,7 +7,7 @@
     "phone": "740-921-8898",
     "website": "https://trailblazer.me/id/adepew",
     "summary": "I am team #AwesomeAdmin with over 7 years of experience helping companies realizer their Salesforce investment. Expert Flow creator. Firmly believe that Flows are the Future.",
-    "summary": <p>"<a v-bind:href=\"row[8]\"> View </a>",
+    "summary": <p>"<a v-bind:href=\"row[8]\"> View </a>"</p>,
 
     "location": {
       "address": "50134 Lin Chris Dr.",
