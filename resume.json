@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "Ankit Taneja",
-    "label": "Freelance Salesforce Consultant",
-    "picture": "/ankit.jpg",
-    "email": "info@ankittaneja.net",
-    "phone": "+49 151 6102 6618",
-    "website": "http://forcepreneur.com",
-    "summary": "I am an experienced Salesforce Developer / Consultant. My goal is to help your business units (sales/service/marketing/etc.) achieve highest level of success by improving and automating your business process'. I produce high quality code / solutions for my clients that are both well performing and well tested. Lately, I work more in a Product Owner role where I am responsible for gathering requirements, designing soutions and ensuring timely delivery of the projects.",
+    "name": "Alan DePew",
+    "label": "Senior Salesforce Administrator",
+    "picture": "/adepew.jpg",
+    "email": "adepew@live.com",
+    "phone": "740-921-8898",
+    "website": "https://trailblazer.me/id/adepew",
+    "summary": "I am an experienced Senior Salesforce Administrator.",
 
     "location": {
-      "address": "Kinzigstraße 41",
-      "postalCode": "10247",
-      "city": "Berlin",
-      "countryCode": "DE",
-      "region": "Berlin"
+      "address": "50134 Lin Chris Dr.",
+      "postalCode": "43950",
+      "city": "Saint Clairsville",
+      "countryCode": "OH",
+      "region": "USA"
     },
     "profiles": [
       {
@@ -26,21 +26,21 @@
       {
         "network": "LinkedIn",
         "username": "NkitTaneja",
-        "url": "https://www.linkedin.com/in/ankit-taneja-68229128/",
+        "url": "https://www.linkedin.com/in/adepew/",
         "icon": "linkedin",
         "package": "fab"
       },
       {
         "network": "Twitter",
         "username": "NkitTaneja",
-        "url": "http://twitter.com/NkitTaneja",
+        "url": "http://twitter.com/alandepew",
         "icon" : "twitter",
         "package": "fab"
       },
       {
         "network": "Github",
-        "username": "ankittaneja",
-        "url": "https://github.com/ankittaneja",
+        "username": "adepew",
+        "url": "https://github.com/adepew",
         "icon": "github",
         "package": "fab"
       },
@@ -55,11 +55,11 @@
   },
   "work": [
     {
-      "company": "Self-employed",
-      "position": "Freelance Salesforce Developer / Business Analyst / Project Manager",
-      "website": "http://ankittaneja.net",
-      "location": "Berlin, Germany",
-      "startDate": "2015-01",
+      "company": "Jenzabar",
+      "position": "Senior Salesforce Administrator",
+      "website": "http://jenzabar.com",
+      "location": "Cincinnati, OH",
+      "startDate": "2020-10",
       "endDate": "till date",
       "summary": "Description...",
       "highlights": ["Analyze client’s business requirements and processes through interviews, workshops and document analysis.", "Create user stories, then split them into features and sub-tasks. Hence, crafting a roadmap.", "Planning and executing feature sprints with internal and / or external teams. Also participating as a developer as and when need arises.", "Conduct 5+ levels of testing including functional, regression, user acceptance, security and performance to verify the client’s needs are met.", "Helping clients with security reviews before listing apps on Salesforce AppExchange.", "Prepare documentation: Training presentation, User handbook, Code documentation, etc."]
