@@ -71,7 +71,7 @@ library.add(
   faEnvelope,
 );
 
-VueC.prototype.$sidebar = true;
+VueC.prototype.$sidebar = false;
 VueC.prototype.$resume = jsonresume;
 
 export default (Vue, { head }) => {
